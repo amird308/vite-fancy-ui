@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # Demo
 
-### https://my-vue-1xgnnq627-amird308s-projects.vercel.app/
+### https://my-vue-app-lac.vercel.app/
 
 # run project 
 
